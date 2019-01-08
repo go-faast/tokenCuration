@@ -61,9 +61,8 @@ In 2006 the United States congress passed what is now known as [UIGEA](https://w
 
 Below is a list of tokens which are readily available to the US market from the companies listed above. This list available as a JSON in this directory.
 
-|                            |        |       |                 |                                     |                                            |
-|----------------------------|--------|-------|-----------------|-------------------------------------|--------------------------------------------|
 | **Name**                       | **Symbol** | **Mined** | **Category**        | **Companies Approved**                  | **Contract Address (if ERC20 Token)**          |
+|----------------------------|--------|-------|-----------------|-------------------------------------|--------------------------------------------|
 | 0x Protocol                | ZRX    | FALSE | Swap            | ["Bittrex", "Coinbase", "Poloniex"] | 0xE41d2489571d322189246DaFA5ebDe1F4699F498 |
 | AdEx                       | ADX    | FALSE | Advertising     | ["Bittrex"]                         | 0x4470BB87d77b963A013DB939BE332f927f2b992e |
 | Aeternity                  | AE     | FALSE | Smart Contracts | ["Coinbase"]                        | 0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d |
