@@ -13,7 +13,7 @@ Based on this, a prudent approach is to assess if a token readily available on t
 
 2. [Remarks by William Hinman](https://www.sec.gov/news/speech/speech-hinman-061418)
 
-> “putting aside the fundraising that accompanied the creation of Ether, based on my understanding of the present state of Ether, the Ethereum network and its decentralized structure, current offers and sales of Ether are not securities transactions”
+> putting aside the fundraising that accompanied the creation of Ether, based on my understanding of the present state of Ether, the Ethereum network and its decentralized structure, current offers and sales of Ether are not securities transactions
 
  - Based on these statements, a token that has completed a fundraise can is not necessarily a security; ethereum completed a fundraise, but is not at this time a security.
 
@@ -21,7 +21,7 @@ Based on this, a prudent approach is to assess if a token readily available on t
 
 In 2006 the United States congress passed what is now known as [UIGEA](https://www.fdic.gov/news/news/financial/2010/fil10035a.pdf), which imposes severe restrictions on online gaming and gambling. Tokens that are designed specifically to assist in or facilitate online gambling may be considered to be:
 
-> "(i) automated clearing house (ACH) systems, (ii) card systems, (iii) check collection systems, (iv) money transmitting businesses, and (v) wire transfer systems."
+> (i) automated clearing house (ACH) systems, (ii) card systems, (iii) check collection systems, (iv) money transmitting businesses, and (v) wire transfer systems.
 
 # Comments by Regulated Businesses
 
@@ -31,7 +31,7 @@ In 2006 the United States congress passed what is now known as [UIGEA](https://w
 
 > The asset is not classified as a security using Coinbase's Securities Law Framework.
 
-### Tokens Available
+#### Coinbase Tokens Available
 
 - [New Digital Assets](https://blog.coinbase.com/coinbase-continues-to-explore-support-for-new-digital-assets-92ba4ab7f465)
 
@@ -39,7 +39,7 @@ In 2006 the United States congress passed what is now known as [UIGEA](https://w
 
 -   Poloniex is owned by Circle Inc
 -   [Circle Inc](https://blog.circle.com/2018/10/05/circle-announces-acquisition-of-seedinvest/) is subject to regulations by SEC and FINRA registered Broker-Dealers
-### Tokens Available    
+#### Circle Tokens Available    
 
 -   [List of tokens available on Poloniex](https://poloniex.com/public?command=returnCurrencies)
 
@@ -49,7 +49,7 @@ In 2006 the United States congress passed what is now known as [UIGEA](https://w
 
 > To be listed on the U.S. platform on Bittrex.com, our compliance review requires the applicant to provide a legal memorandum or opinion from its U.S.-qualified external legal counsel. The memo or opinion should present the factual and legal basis for its conclusion that (a) the Candidate Token is not a security under applicable securities laws, and (b) that trades of the Candidate Tokens would not be subject to regulation under any applicable laws applicable to trading of commodities.
 
-### Tokens Available
+#### Bittrex Tokens Available
 
 - [List of Tokens available on Bittrex](https://bittrex.com/api/v1.1/public/getcurrencies)
 - Note, take care to ensure that:  `IsRestricted : false`
@@ -59,7 +59,7 @@ In 2006 the United States congress passed what is now known as [UIGEA](https://w
 
 # The List
 
-Below is a list of tokens which are readily available to the US market from the companies listed about. This list available as a JSON in this directory.
+Below is a list of tokens which are readily available to the US market from the companies listed above. This list available as a JSON in this directory.
 
 |                            |        |       |                 |                                     |                                            |
 |----------------------------|--------|-------|-----------------|-------------------------------------|--------------------------------------------|
