@@ -1,0 +1,721 @@
+[
+  {
+    "name": "0x Protocol",
+    "symbol": "ZRX",
+    "isMined": false,
+    "category": "Swap",
+    "listedOn": [
+      "bittrex",
+      "coinbase",
+      "poloniex"
+    ],
+    "erc20Address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"
+  },
+  {
+    "name": "AdEx",
+    "symbol": "ADX",
+    "isMined": false,
+    "category": "Advertising",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x4470BB87d77b963A013DB939BE332f927f2b992e"
+  },
+  {
+    "name": "Aeternity",
+    "symbol": "AE",
+    "isMined": false,
+    "category": "Smart Contracts",
+    "listedOn": [
+      "coinbase"
+    ],
+    "erc20Address": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d"
+  },
+  {
+    "name": "AidCoin",
+    "symbol": "AID",
+    "isMined": false,
+    "category": "Giving",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x37e8789bb9996cac9156cd5f5fd32599e6b91289"
+  },
+  {
+    "name": "Aragon",
+    "symbol": "ANT",
+    "isMined": false,
+    "category": "Governance",
+    "listedOn": [
+      "bittrex",
+      "coinbase"
+    ],
+    "erc20Address": "0x960b236A07cf122663c4303350609A66A7B288C0"
+  },
+  {
+    "name": "Augur",
+    "symbol": "REP",
+    "isMined": false,
+    "category": "Forecasting",
+    "listedOn": [
+      "bittrex",
+      "coinbase",
+      "poloniex"
+    ],
+    "erc20Address": "0x1985365e9f78359a9B6AD760e32412f4a445E862"
+  },
+  {
+    "name": "Bancor",
+    "symbol": "BNT",
+    "isMined": false,
+    "category": "Finance",
+    "listedOn": [
+      "bittrex",
+      "poloniex"
+    ],
+    "erc20Address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C"
+  },
+  {
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "isMined": false,
+    "category": "App",
+    "listedOn": [
+      "bittrex",
+      "poloniex"
+    ],
+    "erc20Address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF"
+  },
+  {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "isMined": true,
+    "category": "Cryptocurrency",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": ""
+  },
+  {
+    "name": "BlockMason Credit Protocol",
+    "symbol": "BCPT",
+    "isMined": false,
+    "category": "Finance",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd"
+  },
+  {
+    "name": "Blockparty",
+    "symbol": "BOXX",
+    "isMined": false,
+    "category": "Ticketing",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x780116d91e5592e58a3b3c76a351571b39abcec6"
+  },
+  {
+    "name": "Blocktix",
+    "symbol": "TIX",
+    "isMined": false,
+    "category": "Ticketing",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xEa1f346faF023F974Eb5adaf088BbCdf02d761F4"
+  },
+  {
+    "name": "BLOCKv",
+    "symbol": "VEE",
+    "isMined": false,
+    "category": "Engagement",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7"
+  },
+  {
+    "name": "Bloom",
+    "symbol": "BLT",
+    "isMined": false,
+    "category": "Identity",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e"
+  },
+  {
+    "name": "Bread",
+    "symbol": "BRD",
+    "isMined": false,
+    "category": "App",
+    "listedOn": [
+      "coinbase"
+    ],
+    "erc20Address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6"
+  },
+  {
+    "name": "Civic",
+    "symbol": "CVC",
+    "isMined": false,
+    "category": "Identity",
+    "listedOn": [
+      "bittrex",
+      "coinbase",
+      "poloniex"
+    ],
+    "erc20Address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45"
+  },
+  {
+    "name": "Cred",
+    "symbol": "LBA",
+    "isMined": false,
+    "category": "Reputation",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xfe5f141bf94fe84bc28ded0ab966c16b17490657"
+  },
+  {
+    "name": "Crypto.com",
+    "symbol": "MCO",
+    "isMined": false,
+    "category": "Payments",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d"
+  },
+  {
+    "name": "Decentraland",
+    "symbol": "MANA",
+    "isMined": false,
+    "category": "E-Gaming",
+    "listedOn": [
+      "bittrex",
+      "coinbase",
+      "poloniex"
+    ],
+    "erc20Address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"
+  },
+  {
+    "name": "district0x",
+    "symbol": "DNT",
+    "isMined": false,
+    "category": "Ecosystem",
+    "listedOn": [
+      "bittrex",
+      "coinbase"
+    ],
+    "erc20Address": "0x0abdace70d3790235af448c88547603b945604ea"
+  },
+  {
+    "name": "DMarket",
+    "symbol": "DMT",
+    "isMined": false,
+    "category": "E-Gaming",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x2ccbFF3A042c68716Ed2a2Cb0c544A9f1d1935E1"
+  },
+  {
+    "name": "Endor",
+    "symbol": "EDR",
+    "isMined": false,
+    "category": "Forecasting",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xc528c28FEC0A90C083328BC45f587eE215760A0F"
+  },
+  {
+    "name": "Enigma",
+    "symbol": "ENG",
+    "isMined": false,
+    "category": "Privacy",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4"
+  },
+  {
+    "name": "Enjin",
+    "symbol": "ENJ",
+    "isMined": false,
+    "category": "E-Gaming",
+    "listedOn": [
+      "bittrex",
+      "coinbase"
+    ],
+    "erc20Address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c"
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "isMined": true,
+    "category": "Smart Contracts",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": ""
+  },
+  {
+    "name": "Gifto",
+    "symbol": "GTO",
+    "isMined": false,
+    "category": "E-gifts",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xc5bbae50781be1669306b9e001eff57a2957b09d"
+  },
+  {
+    "name": "Gnosis",
+    "symbol": "GNO",
+    "isMined": false,
+    "category": "Forecasting",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x6810e776880C02933D47DB1b9fc05908e5386b96"
+  },
+  {
+    "name": "Golem",
+    "symbol": "GNT",
+    "isMined": false,
+    "category": "Computing",
+    "listedOn": [
+      "bittrex",
+      "coinbase",
+      "poloniex"
+    ],
+    "erc20Address": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d"
+  },
+  {
+    "name": "Guppy",
+    "symbol": "GUP",
+    "isMined": false,
+    "category": "App",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xf7B098298f7C69Fc14610bf71d5e02c60792894C"
+  },
+  {
+    "name": "Hydro",
+    "symbol": "HYDRO",
+    "isMined": false,
+    "category": "Identity",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xebbdf302c940c6bfd49c6b165f457fdb324649bc"
+  },
+  {
+    "name": "iEx.ec",
+    "symbol": "RLC",
+    "isMined": false,
+    "category": "Computing",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x607F4C5BB672230e8672085532f7e901544a7375"
+  },
+  {
+    "name": "KyberNetwork",
+    "symbol": "KNC",
+    "isMined": false,
+    "category": "Swap",
+    "listedOn": [
+      "bittrex",
+      "coinbase",
+      "poloniex"
+    ],
+    "erc20Address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200"
+  },
+  {
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "isMined": true,
+    "category": "Cryptocurrency",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": ""
+  },
+  {
+    "name": "Loom Network",
+    "symbol": "LOOM",
+    "isMined": false,
+    "category": "Smart Contracts",
+    "listedOn": [
+      "bittrex",
+      "coinbase",
+      "poloniex"
+    ],
+    "erc20Address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
+  },
+  {
+    "name": "Loopring",
+    "symbol": "LRC",
+    "isMined": false,
+    "category": "Swap",
+    "listedOn": [
+      "bittrex",
+      "coinbase"
+    ],
+    "erc20Address": "0xEF68e7C694F40c8202821eDF525dE3782458639f"
+  },
+  {
+    "name": "Lunyr",
+    "symbol": "LUN",
+    "isMined": false,
+    "category": "Content",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9"
+  },
+  {
+    "name": "Mainframe",
+    "symbol": "MFT",
+    "isMined": false,
+    "category": "Computing",
+    "listedOn": [
+      "bittrex",
+      "coinbase"
+    ],
+    "erc20Address": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428"
+  },
+  {
+    "name": "Melon",
+    "symbol": "MLN",
+    "isMined": false,
+    "category": "Finance",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1"
+  },
+  {
+    "name": "METAL",
+    "symbol": "MTL",
+    "isMined": false,
+    "category": "App",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xF433089366899D83a9f26A773D59ec7eCF30355e"
+  },
+  {
+    "name": "Metronome",
+    "symbol": "MET",
+    "isMined": false,
+    "category": "Governance",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e"
+  },
+  {
+    "name": "Numeraire",
+    "symbol": "NMR",
+    "isMined": false,
+    "category": "Forecasting",
+    "listedOn": [
+      "bittrex",
+      "poloniex"
+    ],
+    "erc20Address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671"
+  },
+  {
+    "name": "Odyssey",
+    "symbol": "OCN",
+    "isMined": false,
+    "category": "Ecosystem",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x4092678e4e78230f46a1534c0fbc8fa39780892b"
+  },
+  {
+    "name": "OmiseGO",
+    "symbol": "OMG",
+    "isMined": false,
+    "category": "Finance",
+    "listedOn": [
+      "bittrex",
+      "coinbase",
+      "poloniex"
+    ],
+    "erc20Address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+  },
+  {
+    "name": "PAL Network",
+    "symbol": "PAL",
+    "isMined": false,
+    "category": "Insurance",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xfeDAE5642668f8636A11987Ff386bfd215F942EE"
+  },
+  {
+    "name": "Patientory",
+    "symbol": "PTOY",
+    "isMined": false,
+    "category": "Health",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x8Ae4BF2C33a8e667de34B54938B0ccD03Eb8CC06"
+  },
+  {
+    "name": "Paxos Standard",
+    "symbol": "PAX",
+    "isMined": false,
+    "category": "Stable Coin",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1"
+  },
+  {
+    "name": "Po.et",
+    "symbol": "POE",
+    "isMined": false,
+    "category": "Content",
+    "listedOn": [
+      "coinbase"
+    ],
+    "erc20Address": "0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195"
+  },
+  {
+    "name": "Polymath",
+    "symbol": "POLY",
+    "isMined": false,
+    "category": "Security Tokens",
+    "listedOn": [
+      "bittrex",
+      "poloniex"
+    ],
+    "erc20Address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC"
+  },
+  {
+    "name": "PowerLedger",
+    "symbol": "POWR",
+    "isMined": false,
+    "category": "Electricity",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x595832f8fc6bf59c85c527fec3740a1b7a361269"
+  },
+  {
+    "name": "PumaPay",
+    "symbol": "PMA",
+    "isMined": false,
+    "category": "Payments",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x846c66cf71c43f80403b51fe3906b3599d63336f"
+  },
+  {
+    "name": "QuarkChain Token",
+    "symbol": "QKC",
+    "isMined": false,
+    "category": "Computing",
+    "listedOn": [
+      "coinbase"
+    ],
+    "erc20Address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664"
+  },
+  {
+    "name": "Refereum",
+    "symbol": "RFR",
+    "isMined": false,
+    "category": "Referrals",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c"
+  },
+  {
+    "name": "Request Network",
+    "symbol": "REQ",
+    "isMined": false,
+    "category": "Payments",
+    "listedOn": [
+      "coinbase"
+    ],
+    "erc20Address": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a"
+  },
+  {
+    "name": "Ripio Credit Network",
+    "symbol": "RCN",
+    "isMined": false,
+    "category": "Finance",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6"
+  },
+  {
+    "name": "Sentinel Protocol",
+    "symbol": "UPP",
+    "isMined": false,
+    "category": "Security",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xc86d054809623432210c107af2e3f619dcfbf652"
+  },
+  {
+    "name": "Sirin Token",
+    "symbol": "SRN",
+    "isMined": false,
+    "category": "Hardware",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25"
+  },
+  {
+    "name": "StableUSD",
+    "symbol": "USDS",
+    "isMined": false,
+    "category": "Stable Coin",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe"
+  },
+  {
+    "name": "Status Network Token",
+    "symbol": "SNT",
+    "isMined": false,
+    "category": "App",
+    "listedOn": [
+      "bittrex",
+      "coinbase",
+      "poloniex"
+    ],
+    "erc20Address": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E"
+  },
+  {
+    "name": "Storj",
+    "symbol": "STORJ",
+    "isMined": false,
+    "category": "Storage",
+    "listedOn": [
+      "bittrex",
+      "coinbase",
+      "poloniex"
+    ],
+    "erc20Address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC"
+  },
+  {
+    "name": "Storm",
+    "symbol": "STORM",
+    "isMined": false,
+    "category": "App",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xD0a4b8946Cb52f0661273bfbC6fD0E0C75Fc6433"
+  },
+  {
+    "name": "Swarm City Token",
+    "symbol": "SWT",
+    "isMined": false,
+    "category": "E-Gaming",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xB9e7F8568e08d5659f5D29C4997173d84CdF2607"
+  },
+  {
+    "name": "TenX Pay Token",
+    "symbol": "PAY",
+    "isMined": false,
+    "category": "Payments",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280"
+  },
+  {
+    "name": "Tron",
+    "symbol": "TRX",
+    "isMined": true,
+    "category": "Smart Contracts",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": ""
+  },
+  {
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "isMined": false,
+    "category": "Stable Coin",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x8dd5fbce2f6a956c3022ba3663759011dd51e73e"
+  },
+  {
+    "name": "USD//Coin",
+    "symbol": "USDC",
+    "isMined": false,
+    "category": "Stable Coin",
+    "listedOn": [
+      "poloniex"
+    ],
+    "erc20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+  },
+  {
+    "name": "Viberate",
+    "symbol": "VIB",
+    "isMined": false,
+    "category": "Music",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724"
+  },
+  {
+    "name": "Wings DAO",
+    "symbol": "WINGS",
+    "isMined": false,
+    "category": "Forecasting",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF"
+  },
+  {
+    "name": "Worldwide Asset Exchange",
+    "symbol": "WAX",
+    "isMined": false,
+    "category": "Swap",
+    "listedOn": [
+      "bittrex"
+    ],
+    "erc20Address": "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022"
+  },
+  {
+    "name": "Zilliqa",
+    "symbol": "ZIL",
+    "isMined": false,
+    "category": "Computing",
+    "listedOn": [
+      "coinbase"
+    ],
+    "erc20Address": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27"
+  }
+]
