@@ -59,7 +59,7 @@ In 2006 the United States congress passed what is now known as [UIGEA](https://w
 
 # The List
 
-Below is a list of tokens which are readily available to the US market from the companies listed above. This list available as a JSON in this directory.
+Below is a list of tokens which are readily available to the US market from the companies listed above. This list available as a [JSON](https://raw.githubusercontent.com/go-faast/tokenCuration/master/US/US.json) and can be pulled in via script for automation.
 
 | **Name**                       | **Symbol** | **Mined** | **Category**        | **Companies Approved**                  | **Contract Address (if ERC20 Token)**          |
 |----------------------------|--------|-------|-----------------|-------------------------------------|--------------------------------------------|

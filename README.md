@@ -6,7 +6,7 @@ TokenCuration (name TBD) is an open source attempt to enable open, peer-to-peer 
 
 Currently, lists have been curated for:
 
- - [United States](US/)
+ - [United States](US/) - [JSON](https://raw.githubusercontent.com/go-faast/tokenCuration/master/US/US.json)
 
 # Legal
 
