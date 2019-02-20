@@ -53,18 +53,6 @@
     "erc20Address": "0x960b236A07cf122663c4303350609A66A7B288C0"
   },
   {
-    "name": "Augur",
-    "symbol": "REP",
-    "isMined": false,
-    "category": "Forecasting",
-    "listedOn": [
-      "bittrex",
-      "coinbase",
-      "poloniex"
-    ],
-    "erc20Address": "0x1985365e9f78359a9B6AD760e32412f4a445E862"
-  },
-  {
     "name": "Bancor",
     "symbol": "BNT",
     "isMined": false,
@@ -93,6 +81,18 @@
     "category": "Cryptocurrency",
     "listedOn": [
       "bittrex"
+    ],
+    "erc20Address": ""
+  },
+  {
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "isMined": true,
+    "category": "Cryptocurrency",
+    "listedOn": [
+      "bittrex",
+      "coinbase",
+      "poloniex"
     ],
     "erc20Address": ""
   },
@@ -222,16 +222,6 @@
     "erc20Address": "0x2ccbFF3A042c68716Ed2a2Cb0c544A9f1d1935E1"
   },
   {
-    "name": "Endor",
-    "symbol": "EDR",
-    "isMined": false,
-    "category": "Forecasting",
-    "listedOn": [
-      "bittrex"
-    ],
-    "erc20Address": "0xc528c28FEC0A90C083328BC45f587eE215760A0F"
-  },
-  {
     "name": "Enigma",
     "symbol": "ENG",
     "isMined": false,
@@ -271,16 +261,6 @@
       "bittrex"
     ],
     "erc20Address": "0xc5bbae50781be1669306b9e001eff57a2957b09d"
-  },
-  {
-    "name": "Gnosis",
-    "symbol": "GNO",
-    "isMined": false,
-    "category": "Forecasting",
-    "listedOn": [
-      "bittrex"
-    ],
-    "erc20Address": "0x6810e776880C02933D47DB1b9fc05908e5386b96"
   },
   {
     "name": "Golem",
@@ -424,7 +404,7 @@
     "name": "Numeraire",
     "symbol": "NMR",
     "isMined": false,
-    "category": "Forecasting",
+    "category": "Machine Learning",
     "listedOn": [
       "bittrex",
       "poloniex"
@@ -687,16 +667,6 @@
       "bittrex"
     ],
     "erc20Address": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724"
-  },
-  {
-    "name": "Wings DAO",
-    "symbol": "WINGS",
-    "isMined": false,
-    "category": "Forecasting",
-    "listedOn": [
-      "bittrex"
-    ],
-    "erc20Address": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF"
   },
   {
     "name": "Worldwide Asset Exchange",

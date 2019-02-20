@@ -68,10 +68,10 @@ Below is a list of tokens which are readily available to the US market from the 
 | Aeternity                  | AE     | FALSE | Smart Contracts | ["Coinbase"]                        | 0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d |
 | AidCoin                    | AID    | FALSE | Giving          | ["Bittrex"]                         | 0x37e8789bb9996cac9156cd5f5fd32599e6b91289 |
 | Aragon                     | ANT    | FALSE | Governance      | ["Bittrex", "Coinbase"]             | 0x960b236A07cf122663c4303350609A66A7B288C0 |
-| Augur                      | REP    | FALSE | Forecasting     | ["Bittrex", "Coinbase", "Poloniex"] | 0x1985365e9f78359a9B6AD760e32412f4a445E862 |
 | Bancor                     | BNT    | FALSE | Finance         | ["Bittrex", "Poloniex"]             | 0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C |
 | Basic Attention Token      | BAT    | FALSE | App             | ["Bittrex", "Poloniex"]             | 0x0D8775F648430679A709E98d2b0Cb6250d2887EF |
-| Bitcoin                    | BTC    | TRUE  | Cryptocurrency  | ["Bittrex"]                         |                                            |
+| Bitcoin                    | BTC    | TRUE  | Cryptocurrency  | ["Bittrex", "Coinbase", "Poloniex"] |                                            |
+| Bitcoin Cash               | BCH    | TRUE  | Cryptocurrency  | ["Bittrex", "Coinbase", "Poloniex"] |                                            |
 | BlockMason Credit Protocol | BCPT   | FALSE | Finance         | ["Bittrex"]                         | 0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd |
 | Blockparty                 | BOXX   | FALSE | Ticketing       | ["Bittrex"]                         | 0x780116d91e5592e58a3b3c76a351571b39abcec6 |
 | Blocktix                   | TIX    | FALSE | Ticketing       | ["Bittrex"]                         | 0xEa1f346faF023F974Eb5adaf088BbCdf02d761F4 |
@@ -84,12 +84,10 @@ Below is a list of tokens which are readily available to the US market from the 
 | Decentraland               | MANA   | FALSE | E-Gaming        | ["Bittrex", "Coinbase", "Poloniex"] | 0x0F5D2fB29fb7d3CFeE444a200298f468908cC942 |
 | district0x                 | DNT    | FALSE | Ecosystem       | ["Bittrex", "Coinbase"]             | 0x0abdace70d3790235af448c88547603b945604ea |
 | DMarket                    | DMT    | FALSE | E-Gaming        | ["Bittrex"]                         | 0x2ccbFF3A042c68716Ed2a2Cb0c544A9f1d1935E1 |
-| Endor                      | EDR    | FALSE | Forecasting     | ["Bittrex"]                         | 0xc528c28FEC0A90C083328BC45f587eE215760A0F |
 | Enigma                     | ENG    | FALSE | Privacy         | ["Bittrex"]                         | 0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4 |
 | Enjin                      | ENJ    | FALSE | E-Gaming        | ["Bittrex", "Coinbase"]             | 0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c |
 | Ethereum                   | ETH    | TRUE  | Smart Contracts | ["Bittrex"]                         |                                            |
 | Gifto                      | GTO    | FALSE | E-gifts         | ["Bittrex"]                         | 0xc5bbae50781be1669306b9e001eff57a2957b09d |
-| Gnosis                     | GNO    | FALSE | Forecasting     | ["Bittrex"]                         | 0x6810e776880C02933D47DB1b9fc05908e5386b96 |
 | Golem                      | GNT    | FALSE | Computing       | ["Bittrex", "Coinbase", "Poloniex"] | 0xa74476443119A942dE498590Fe1f2454d7D4aC0d |
 | Guppy                      | GUP    | FALSE | App             | ["Bittrex"]                         | 0xf7B098298f7C69Fc14610bf71d5e02c60792894C |
 | Hydro                      | HYDRO  | FALSE | Identity        | ["Bittrex"]                         | 0xebbdf302c940c6bfd49c6b165f457fdb324649bc |
@@ -103,7 +101,7 @@ Below is a list of tokens which are readily available to the US market from the 
 | Melon                      | MLN    | FALSE | Finance         | ["Bittrex"]                         | 0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1 |
 | METAL                      | MTL    | FALSE | App             | ["Bittrex"]                         | 0xF433089366899D83a9f26A773D59ec7eCF30355e |
 | Metronome                  | MET    | FALSE | Governance      | ["Bittrex"]                         | 0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e |
-| Numeraire                  | NMR    | FALSE | Forecasting     | ["Bittrex", "Poloniex"]             | 0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671 |
+| Numeraire                  | NMR    | FALSE | Machine Learning| ["Bittrex", "Poloniex"]             | 0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671 |
 | Odyssey                    | OCN    | FALSE | Ecosystem       | ["Bittrex"]                         | 0x4092678e4e78230f46a1534c0fbc8fa39780892b |
 | OmiseGO                    | OMG    | FALSE | Finance         | ["Bittrex", "Coinbase", "Poloniex"] | 0xd26114cd6EE289AccF82350c8d8487fedB8A0C07 |
 | PAL Network                | PAL    | FALSE | Insurance       | ["Bittrex"]                         | 0xfeDAE5642668f8636A11987Ff386bfd215F942EE |
@@ -129,6 +127,5 @@ Below is a list of tokens which are readily available to the US market from the 
 | TrueUSD                    | TUSD   | FALSE | Stable Coin     | ["Bittrex"]                         | 0x8dd5fbce2f6a956c3022ba3663759011dd51e73e |
 | USD//Coin                  | USDC   | FALSE | Stable Coin     | ["Poloniex"]                        | 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 |
 | Viberate                   | VIB    | FALSE | Music           | ["Bittrex"]                         | 0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724 |
-| Wings DAO                  | WINGS  | FALSE | Forecasting     | ["Bittrex"]                         | 0x667088b212ce3d06a1b553a7221E1fD19000d9aF |
 | Worldwide Asset Exchange   | WAX    | FALSE | Swap            | ["Bittrex"]                         | 0x39Bb259F66E1C59d5ABEF88375979b4D20D98022 |
 | Zilliqa                    | ZIL    | FALSE | Computing       | ["Coinbase"]                        | 0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27 |
