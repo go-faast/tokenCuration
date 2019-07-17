@@ -180,6 +180,16 @@
       "erc20Address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC"
   },
   {
+    "name": "Singular DTV",
+    "symbol": "SNGLS",
+    "isMined": false,
+    "category": "Content",
+    "listedOn": [
+        "bittrex"
+    ],
+    "erc20Address": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009"
+},
+  {
       "name": "Tron",
       "symbol": "TRX",
       "isMined": true,
