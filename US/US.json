@@ -48,6 +48,26 @@
       "erc20Address": ""
   },
   {
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "isMined": false,
+    "category": "Data publishing",
+    "listedOn": [
+        "coinbase"
+    ],
+    "erc20Address": "0x514910771af9ca656af840dff83e8264ecf986ca"
+  },
+  {
+    "name": "DAI Stablecoin",
+    "symbol": "DAI",
+    "isMined": false,
+    "category": "Stablecoin",
+    "listedOn": [
+        "coinbase"
+    ],
+    "erc20Address": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359"
+  },
+  {
       "name": "Endor",
       "symbol": "EDR",
       "isMined": false,
@@ -250,5 +270,17 @@
           "poloniex"
       ],
       "erc20Address": ""
+  },
+  {
+    "name": "Ripple",
+    "symbol": "XRP",
+    "isMined": false,
+    "category": "Cryptocurrency",
+    "listedOn": [
+        "bittrex",
+        "coinbase",
+        "poloniex"
+    ],
+    "erc20Address": ""
   }
 ]

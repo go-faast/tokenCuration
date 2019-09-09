@@ -103,8 +103,10 @@ Below is a list of tokens which are readily available to the US market from the 
 | Basic Attention Token      | BAT    | FALSE | App             | ["Bittrex", "Coinbase", "Poloniex"]             | 0x0D8775F648430679A709E98d2b0Cb6250d2887EF |
 | Bitcoin Cash               | BCH    | TRUE  | Cryptocurrency  | ["Bittrex", "Coinbase", "Poloniex"] |                                            |
 | Bitcoin                    | BTC    | TRUE  | Cryptocurrency  | ["Bittrex", "Coinbase", "Poloniex"] |                                            |
-| Endor                      | EDR    | FALSE | Artificial Intelligence         | ["Bittrex"]                         | 0xc528c28fec0a90c083328bc45f587ee215760a0f |
-| Enjin Coin                 | ENJ    | FALSE | Online Gaming         | ["Bittrex"]                         | 0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c |
+| ChainLink                  | LINK   | FALSE | Data Publishing | ["Coinbase"]                         | 0x514910771af9ca656af840dff83e8264ecf986ca |
+| DAI Stablecoin             | DAI   | FALSE | Stable Coin      | ["Coinbase"]                         | 0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359 |
+| Endor                      | EDR    | FALSE | Artificial Intelligence| ["Bittrex"]                         | 0xc528c28fec0a90c083328bc45f587ee215760a0f |
+| Enjin Coin                 | ENJ    | FALSE | Online Gaming   | ["Bittrex"]                         | 0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c |
 | Ethereum                   | ETH    | TRUE  | Smart Contracts | ["Bittrex", "Coinbase", "Poloniex"]                         |                                            |
 | FunFair                      | FUN    | FALSE | Online Gaming         | ["Bittrex"]                         | 0x419d0d8bdd9af5e606ae2232ed285aff190e711b |
 | Golem                      | GNT    | FALSE | Computing       | ["Bittrex", "Coinbase", "Poloniex"] | 0xa74476443119A942dE498590Fe1f2454d7D4aC0d |
@@ -122,3 +124,4 @@ Below is a list of tokens which are readily available to the US market from the 
 | UnikoinGold                   | UKG    | FALSE | Online Gaming           | ["Bittrex"]                         | 0xb2e59493763d0d0be2634b2d1afe066914b0fcc2 |
 | Worldwide Asset Exchange   | WAX    | FALSE | Swap            | ["Bittrex"]                         | 0x39Bb259F66E1C59d5ABEF88375979b4D20D98022 |
 | Monero                    | XMR    | TRUE | Cryptocurrency       | ["Bittrex", "Poloniex"]                        |  |
+| Ripple                    | XRP    | TRUE | Cryptocurrency       | ["Bittrex", "Coinbase", "Poloniex"]                        |  |
