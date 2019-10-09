@@ -70,6 +70,7 @@ Last Updated July 17, 2019
 - [Market Availability Changes for U.S. Customers 6/21/19](https://bittrex.zendesk.com/hc/en-us/articles/360028996652)
 - [Market Availability Changes for U.S. Customers 6/28/19](https://bittrex.zendesk.com/hc/en-us/articles/360029523891-Market-Availability-Changes-for-U-S-Customers-6-28-19)
 - 74 Assets were specifically listed as no longer being available to US customers for regulatory concerns
+- [Pending Market Removals 6/7/2019](https://bittrex.zendesk.com/hc/en-us/articles/360028754251-Pending-Market-Removals-6-7-2019)
 
 # Discrepancies among by regulated businesses
 Last Updated July 17, 2019
@@ -112,7 +113,6 @@ Below is a list of tokens which are readily available to the US market from the 
 | Golem                      | GNT    | FALSE | Computing       | ["Bittrex", "Coinbase", "Poloniex"] | 0xa74476443119A942dE498590Fe1f2454d7D4aC0d |
 | Loom Network               | LOOM   | FALSE | Smart Contracts | ["Bittrex", "Coinbase", "Poloniex"] | 0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0 |
 | Litecoin                      | LTC    | TRUE | Cryptocurrency         | ["Bittrex", "Coinbase", "Poloniex"]                         |  |
-| Lunyr                      | LUN    | FALSE | Content         | ["Bittrex"]                         | 0xfa05A73FfE78ef8f1a739473e462c54bae6567D9 |
 | Decentraland               | MANA    | FALSE | App             | ["Bittrex", "Coinbase", "Poloniex"]                         | 0x0f5d2fb29fb7d3cfee444a200298f468908cc942 |
 | METAL                      | MTL    | FALSE | App             | ["Bittrex"]                         | 0xF433089366899D83a9f26A773D59ec7eCF30355e |
 | Paxos Standard             | PAX    | FALSE | Stable Coin     | ["Bittrex"]                         | 0x8e870d67f660d95d5be530380d0ec0bd388289e1 |
