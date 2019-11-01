@@ -121,6 +121,7 @@ Below is a list of tokens which are readily available to the US market from the 
 | Tron                       | TRX    | TRUE  | Smart Contracts | ["Bittrex"]                         |                                            |
 | TrueUSD                    | TUSD   | FALSE | Stable Coin     | ["Bittrex"]                         | 0x0000000000085d4780B73119b644AE5ecd22b376 |
 | USD Coin                  | USDC   | FALSE | Stable Coin     | ["Poloniex", "Coinbase"]                        | 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 |
+| Tether USD                | USDT   | FALSE | Stable Coin     | ["Poloniex", "Bittrex"]                        | 0xdAC17F958D2ee523a2206206994597C13D831ec7 |
 | UnikoinGold                   | UKG    | FALSE | Online Gaming           | ["Bittrex"]                         | 0xb2e59493763d0d0be2634b2d1afe066914b0fcc2 |
 | Worldwide Asset Exchange   | WAX    | FALSE | Swap            | ["Bittrex"]                         | 0x39Bb259F66E1C59d5ABEF88375979b4D20D98022 |
 | Monero                    | XMR    | TRUE | Cryptocurrency       | ["Bittrex", "Poloniex"]                        |  |

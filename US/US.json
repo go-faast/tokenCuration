@@ -241,6 +241,17 @@
       "erc20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
   {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "isMined": false,
+    "category": "Stable Coin",
+    "listedOn": [
+        "poloniex",
+        "bittrex"
+    ],
+    "erc20Address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+},
+  {
       "name": "UnikoinGold",
       "symbol": "UKG",
       "isMined": false,
