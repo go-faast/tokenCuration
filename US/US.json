@@ -272,6 +272,18 @@
       "erc20Address": "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022"
   },
   {
+    "name": "Stellar",
+    "symbol": "XLM",
+    "isMined": false,
+    "category": "Cryptocurrency",
+    "listedOn": [
+        "bittrex",
+        "coinbase",
+        "poloniex"
+    ],
+    "erc20Address": ""
+},
+  {
       "name": "Monero",
       "symbol": "XMR",
       "isMined": true,

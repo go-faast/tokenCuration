@@ -124,5 +124,6 @@ Below is a list of tokens which are readily available to the US market from the 
 | Tether USD                | USDT   | FALSE | Stable Coin     | ["Poloniex", "Bittrex"]                        | 0xdAC17F958D2ee523a2206206994597C13D831ec7 |
 | UnikoinGold                   | UKG    | FALSE | Online Gaming           | ["Bittrex"]                         | 0xb2e59493763d0d0be2634b2d1afe066914b0fcc2 |
 | Worldwide Asset Exchange   | WAX    | FALSE | Swap            | ["Bittrex"]                         | 0x39Bb259F66E1C59d5ABEF88375979b4D20D98022 |
+| Stellar                   | XLM    | TRUE | Cryptocurrency       | ["Bittrex", "Coinbase", "Poloniex"]                        |  |
 | Monero                    | XMR    | TRUE | Cryptocurrency       | ["Bittrex", "Poloniex"]                        |  |
 | Ripple                    | XRP    | TRUE | Cryptocurrency       | ["Bittrex", "Coinbase", "Poloniex"]                        |  |
