@@ -105,7 +105,7 @@ Below is a list of tokens which are readily available to the US market from the 
 | Bitcoin Cash               | BCH    | TRUE  | Cryptocurrency  | ["Bittrex", "Coinbase", "Poloniex"] |                                            |
 | Bitcoin                    | BTC    | TRUE  | Cryptocurrency  | ["Bittrex", "Coinbase", "Poloniex"] |                                            |
 | ChainLink                  | LINK   | FALSE | Data Publishing | ["Coinbase"]                         | 0x514910771af9ca656af840dff83e8264ecf986ca |
-| DAI Stablecoin             | DAI   | FALSE | Stable Coin      | ["Coinbase"]                         | 0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359 |
+| DAI Stablecoin             | DAI   | FALSE | Stable Coin      | ["Coinbase"]                         | 0x6B175474E89094C44Da98b954EedeAC495271d0F |
 | Endor                      | EDR    | FALSE | Artificial Intelligence| ["Bittrex"]                         | 0xc528c28fec0a90c083328bc45f587ee215760a0f |
 | Enjin Coin                 | ENJ    | FALSE | Online Gaming   | ["Bittrex"]                         | 0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c |
 | Ethereum                   | ETH    | TRUE  | Smart Contracts | ["Bittrex", "Coinbase", "Poloniex"]                         |                                            |
