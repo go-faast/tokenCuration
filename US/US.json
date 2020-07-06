@@ -58,6 +58,16 @@
     "erc20Address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53"
   },
   {
+    "name": "Compound",
+    "symbol": "COMP",
+    "isMined": false,
+    "category": "Smart Contracts",
+    "listedOn": [
+        "Coinbase"
+    ],
+    "erc20Address": "0xc00e94Cb662C3520282E6f5717214004A7f26888"
+  },
+  {
     "name": "Chainlink",
     "symbol": "LINK",
     "isMined": false,
