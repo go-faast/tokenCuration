@@ -105,20 +105,23 @@ Below is a list of tokens which are readily available to the US market from the 
 | Bitcoin Cash               | BCH    | TRUE  | Cryptocurrency  | ["Bittrex", "Coinbase", "Poloniex"] |                                            |
 | Bitcoin                    | BTC    | TRUE  | Cryptocurrency  | ["Bittrex", "Coinbase", "Poloniex"] |                                            |
 | Binance USD                | BUSD   | FALSE | Stable Coin  | ["Paxos"] | 0x4Fabb145d64652a948d72533023f6E7A623C7C53                            |
-| Compound                   | COMP   | FALSE | Smart Contracts | ["Coinbase"]                         | 0xc00e94Cb662C3520282E6f5717214004A7f26888 |
+| Compound                   | COMP   | FALSE | Defi Platform | ["Coinbase"]                         | 0xc00e94Cb662C3520282E6f5717214004A7f26888 |
 | ChainLink                  | LINK   | FALSE | Data Publishing | ["Coinbase"]                         | 0x514910771af9ca656af840dff83e8264ecf986ca |
 | DAI Stablecoin             | DAI   | FALSE | Stable Coin      | ["Coinbase"]                         | 0x6B175474E89094C44Da98b954EedeAC495271d0F |
 | Endor                      | EDR    | FALSE | Artificial Intelligence| ["Bittrex"]                         | 0xc528c28fec0a90c083328bc45f587ee215760a0f |
 | Enjin Coin                 | ENJ    | FALSE | Online Gaming   | ["Bittrex"]                         | 0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c |
 | Ethereum                   | ETH    | TRUE  | Smart Contracts | ["Bittrex", "Coinbase", "Poloniex"]                         |                                            |
-| FunFair                      | FUN    | FALSE | Online Gaming         | ["Bittrex"]                         | 0x419d0d8bdd9af5e606ae2232ed285aff190e711b |
+| FunFair                    | FUN    | FALSE | Online Gaming         | ["Bittrex"]                         | 0x419d0d8bdd9af5e606ae2232ed285aff190e711b |
 | Golem                      | GNT    | FALSE | Computing       | ["Bittrex", "Coinbase", "Poloniex"] | 0xa74476443119A942dE498590Fe1f2454d7D4aC0d |
+| Maker                      | MKR    | FALSE | Defi Platform   | ["Coinbase"] | 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2 |
 | Loom Network               | LOOM   | FALSE | Smart Contracts | ["Bittrex", "Coinbase", "Poloniex"] | 0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0 |
 | Litecoin                      | LTC    | TRUE | Cryptocurrency         | ["Bittrex", "Coinbase", "Poloniex"]                         |  |
 | Decentraland               | MANA    | FALSE | App             | ["Bittrex", "Coinbase", "Poloniex"]                         | 0x0f5d2fb29fb7d3cfee444a200298f468908cc942 |
 | METAL                      | MTL    | FALSE | App             | ["Bittrex"]                         | 0xF433089366899D83a9f26A773D59ec7eCF30355e |
-| Paxos Standard             | PAX    | FALSE | Stable Coin     | ["Bittrex"]                         | 0x8e870d67f660d95d5be530380d0ec0bd388289e1 |
+| Paxos Standard             | PAX    | FALSE | Stable Coin     | ["Paxos"]                         | 0x8e870d67f660d95d5be530380d0ec0bd388289e1 |
+| Paxos Gold                 | PAXG   | FALSE | Stable Coin     | ["Paxos"]                         | 0x45804880De22913dAFE09f4980848ECE6EcbAf78 |
 | Polymath                   | POLY   | FALSE | Security Tokens | ["Bittrex", "Poloniex"]             | 0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC |
+| Augur v2                   | REPV2   | FALSE | Prediction Market | ["Coinbase"]             | 0x221657776846890989a759BA2973e427DfF5C9bB |
 | SingularDTV                   | SNGLS   | FALSE | Content | ["Bittrex"]             |  0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009 |
 | Tron                       | TRX    | TRUE  | Smart Contracts | ["Bittrex"]                         |                                            |
 | TrueUSD                    | TUSD   | FALSE | Stable Coin     | ["Bittrex"]                         | 0x0000000000085d4780B73119b644AE5ecd22b376 |
