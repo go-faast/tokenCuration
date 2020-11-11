@@ -68,6 +68,16 @@
     "erc20Address": "0xc00e94Cb662C3520282E6f5717214004A7f26888"
   },
   {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "isMined": true,
+    "category": "Cryptocurrency",
+    "listedOn": [
+        "Kraken"
+    ],
+    "erc20Address": ""
+  },
+  {
     "name": "Chainlink",
     "symbol": "LINK",
     "isMined": false,
@@ -353,6 +363,40 @@
         "bittrex",
         "coinbase",
         "poloniex"
+    ],
+    "erc20Address": ""
+  },  
+  {
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "isMined": false,
+    "category": "Defi",
+    "listedOn": [
+        "coinbase",
+        "gemini"
+    ],
+    "erc20Address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
+ }, 
+ {
+    "name": "Yearn.finance",
+    "symbol": "YFI",
+    "isMined": false,
+    "category": "Defi",
+    "listedOn": [
+        "coinbase",
+        "gemini"
+    ],
+    "erc20Address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e"
+ },
+ {
+    "name": "Zcash",
+    "symbol": "ZEC",
+    "isMined": true,
+    "category": "Cryptocurrency",
+    "listedOn": [
+        "Kraken",
+        "Gemini",
+        "Coinbase"
     ],
     "erc20Address": ""
   }
