@@ -389,6 +389,50 @@
     "erc20Address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e"
  },
  {
+    "name": "Aave",
+    "symbol": "AAVE",
+    "isMined": false,
+    "category": "Defi",
+    "listedOn": [
+        "coinbase",
+        "gemini",
+        "kraken"
+    ],
+    "erc20Address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
+ },
+ {
+    "name": "SushiSwap",
+    "symbol": "SUSHI",
+    "isMined": false,
+    "category": "Defi",
+    "listedOn": [
+        "binance"
+    ],
+    "erc20Address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
+ },
+ {
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "isMined": false,
+    "category": "Cryptocurrency",
+    "listedOn": [
+        "coinbase"
+    ],
+    "erc20Address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+ },
+ {
+    "name": "Synthetix",
+    "symbol": "SNX",
+    "isMined": false,
+    "category": "Defi",
+    "listedOn": [
+        "coinbase",
+        "kraken",
+        "gemini"
+    ],
+    "erc20Address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
+ },
+ {
     "name": "Zcash",
     "symbol": "ZEC",
     "isMined": true,
