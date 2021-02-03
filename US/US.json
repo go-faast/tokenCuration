@@ -5,11 +5,34 @@
       "isMined": false,
       "category": "Swap",
       "listedOn": [
-          "bittrex",
+          "gemini",
           "coinbase",
-          "poloniex"
+          "kraken"
       ],
       "erc20Address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"
+  },
+  {
+    "name": "Aave",
+    "symbol": "AAVE",
+    "isMined": false,
+    "category": "Defi",
+    "listedOn": [
+        "coinbase",
+        "gemini",
+        "kraken"
+    ],
+    "erc20Address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
+  },
+  {
+    "name": "Augur",
+    "symbol": "REPV2",
+    "isMined": false,
+    "category": "Prediction Market",
+    "listedOn": [
+        "coinbase",
+        "gemini"
+    ],
+    "erc20Address": "0x221657776846890989a759BA2973e427DfF5C9bB"
   },
   {
       "name": "Basic Attention Token",
@@ -17,9 +40,9 @@
       "isMined": false,
       "category": "App",
       "listedOn": [
-          "bittrex",
-          "poloniex",
-          "coinbase"
+        "gemini",
+        "coinbase",
+        "kraken"
       ],
       "erc20Address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF"
   },
@@ -29,9 +52,9 @@
       "isMined": true,
       "category": "Cryptocurrency",
       "listedOn": [
-          "bittrex",
-          "coinbase",
-          "poloniex"
+        "gemini",
+        "coinbase",
+        "kraken"
       ],
       "erc20Address": ""
   },
@@ -41,9 +64,9 @@
       "isMined": true,
       "category": "Cryptocurrency",
       "listedOn": [
-          "bittrex",
-          "coinbase",
-          "poloniex"
+        "gemini",
+        "coinbase",
+        "kraken"
       ],
       "erc20Address": ""
   },
@@ -53,7 +76,7 @@
     "isMined": false,
     "category": "Stable Coin",
     "listedOn": [
-        "Paxos"
+        "paxos"
     ],
     "erc20Address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53"
   },
@@ -63,19 +86,11 @@
     "isMined": false,
     "category": "Defi Platform",
     "listedOn": [
-        "Coinbase"
+        "gemini",
+        "coinbase",
+        "kraken"
     ],
     "erc20Address": "0xc00e94Cb662C3520282E6f5717214004A7f26888"
-  },
-  {
-    "name": "Dogecoin",
-    "symbol": "DOGE",
-    "isMined": true,
-    "category": "Cryptocurrency",
-    "listedOn": [
-        "Kraken"
-    ],
-    "erc20Address": ""
   },
   {
     "name": "Chainlink",
@@ -83,7 +98,9 @@
     "isMined": false,
     "category": "Data publishing",
     "listedOn": [
-        "coinbase"
+        "gemini",
+        "coinbase",
+        "kraken"
     ],
     "erc20Address": "0x514910771af9ca656af840dff83e8264ecf986ca"
   },
@@ -93,30 +110,21 @@
     "isMined": false,
     "category": "Stablecoin",
     "listedOn": [
-        "coinbase"
+        "gemini",
+        "coinbase",
+        "kraken"
     ],
     "erc20Address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
   },
   {
-      "name": "Endor",
-      "symbol": "EDR",
-      "isMined": false,
-      "category": "Artificial Intelligence",
-      "listedOn": [
-          "bittrex",
-          "coinbase"
-      ],
-      "erc20Address": "0xc528c28fec0a90c083328bc45f587ee215760a0f"
-  },
-  {
-      "name": "Enjin",
-      "symbol": "ENJ",
-      "isMined": false,
-      "category": "E-Gaming",
-      "listedOn": [
-          "bittrex"
-      ],
-      "erc20Address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c"
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "isMined": true,
+    "category": "Cryptocurrency",
+    "listedOn": [
+        "kraken"
+    ],
+    "erc20Address": ""
   },
   {
       "name": "Ethereum",
@@ -124,21 +132,11 @@
       "isMined": true,
       "category": "Smart Contracts",
       "listedOn": [
-          "bittrex",
-          "coinbase",
-          "poloniex"
+        "gemini",
+        "coinbase",
+        "kraken"
       ],
       "erc20Address": ""
-  },
-  {
-      "name": "FunFair",
-      "symbol": "FUN",
-      "isMined": false,
-      "category": "Online Gaming",
-      "listedOn": [
-          "bittrex"
-      ],
-      "erc20Address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b"
   },
   {
       "name": "Golem",
@@ -146,55 +144,32 @@
       "isMined": false,
       "category": "Computing",
       "listedOn": [
-          "bittrex",
-          "coinbase",
-          "poloniex"
+          "coinbase"
       ],
       "erc20Address": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d"
   },
   {
-      "name": "Loom Network",
-      "symbol": "LOOM",
-      "isMined": false,
-      "category": "Smart Contracts",
-      "listedOn": [
-          "bittrex",
-          "coinbase",
-          "poloniex"
-      ],
-      "erc20Address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
-  },
+    "name": "Maker",
+    "symbol": "MKR",
+    "isMined": false,
+    "category": "Smart Contracts",
+    "listedOn": [
+        "gemini",
+        "coinbase"
+    ],
+    "erc20Address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
+},
   {
       "name": "Litecoin",
       "symbol": "LTC",
       "isMined": true,
       "category": "Cryptocurrency",
       "listedOn": [
-          "bittrex",
-          "coinbase",
-          "poloniex"
+        "gemini",
+        "coinbase",
+        "kraken"
       ],
       "erc20Address": ""
-  },
-  {
-      "name": "Lunyr",
-      "symbol": "LUN",
-      "isMined": false,
-      "category": "Content",
-      "listedOn": [
-          "bittrex"
-      ],
-      "erc20Address": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9"
-  },
-  {
-    "name": "Maker",
-    "symbol": "MKR",
-    "isMined": false,
-    "category": "Defi Platform",
-    "listedOn": [
-        "bittrex"
-    ],
-    "erc20Address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"
   },
   {
       "name": "Decentraland",
@@ -202,21 +177,11 @@
       "isMined": false,
       "category": "App",
       "listedOn": [
-          "bittrex",
-          "coinbase",
-          "poloniex"
+        "gemini",
+        "coinbase",
+        "kraken"
       ],
       "erc20Address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
-  },
-  {
-      "name": "METAL",
-      "symbol": "MTL",
-      "isMined": false,
-      "category": "App",
-      "listedOn": [
-          "bittrex"
-      ],
-      "erc20Address": "0xF433089366899D83a9f26A773D59ec7eCF30355e"
   },
   {
       "name": "Paxos Standard",
@@ -238,44 +203,25 @@
     ],
     "erc20Address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78"
   },
-  {
-      "name": "Polymath",
-      "symbol": "POLY",
-      "isMined": false,
-      "category": "Security Tokens",
-      "listedOn": [
-          "bittrex",
-          "poloniex"
-      ],
-      "erc20Address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC"
-  },
-  {
-    "name": "Augur",
-    "symbol": "REPV2",
+{
+    "name": "Synthetix",
+    "symbol": "SNX",
     "isMined": false,
-    "category": "Prediction Market",
+    "category": "Defi",
     "listedOn": [
-        "Coinbase"
+        "gemini",
+        "coinbase",
+        "kraken"
     ],
-    "erc20Address": "0x221657776846890989a759BA2973e427DfF5C9bB"
-  },
-  {
-    "name": "Singular DTV",
-    "symbol": "SNGLS",
-    "isMined": false,
-    "category": "Content",
-    "listedOn": [
-        "bittrex"
-    ],
-    "erc20Address": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009"
-},
+    "erc20Address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
+ },
   {
       "name": "Tron",
       "symbol": "TRX",
       "isMined": true,
       "category": "Smart Contracts",
       "listedOn": [
-          "bittrex"
+          "kraken"
       ],
       "erc20Address": ""
   },
@@ -285,7 +231,7 @@
       "isMined": false,
       "category": "Stable Coin",
       "listedOn": [
-          "bittrex"
+          "trusttoken"
       ],
       "erc20Address": "0x8dd5fbce2f6a956c3022ba3663759011dd51e73e"
   },
@@ -295,8 +241,8 @@
       "isMined": false,
       "category": "Stable Coin",
       "listedOn": [
-          "poloniex",
-          "coinbase"
+        "coinbase",
+        "kraken"
       ],
       "erc20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
@@ -306,30 +252,9 @@
     "isMined": false,
     "category": "Stable Coin",
     "listedOn": [
-        "poloniex",
-        "bittrex"
+        "kraken"
     ],
     "erc20Address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
-  },
-  {
-      "name": "UnikoinGold",
-      "symbol": "UKG",
-      "isMined": false,
-      "category": "Online Gaming",
-      "listedOn": [
-          "bittrex"
-      ],
-      "erc20Address": "0xb2e59493763d0d0be2634b2d1afe066914b0fcc2"
-  },
-  {
-      "name": "Worldwide Asset Exchange",
-      "symbol": "WAX",
-      "isMined": false,
-      "category": "Swap",
-      "listedOn": [
-          "bittrex"
-      ],
-      "erc20Address": "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022"
   },
   {
     "name": "Stellar",
@@ -337,9 +262,9 @@
     "isMined": false,
     "category": "Cryptocurrency",
     "listedOn": [
-        "bittrex",
+        "gemini",
         "coinbase",
-        "poloniex"
+        "kraken"
     ],
     "erc20Address": ""
 },
@@ -349,22 +274,9 @@
       "isMined": true,
       "category": "Cryptocurrency",
       "listedOn": [
-          "bittrex",
-          "poloniex"
+          "kraken"
       ],
       "erc20Address": ""
-  },
-  {
-    "name": "Ripple",
-    "symbol": "XRP",
-    "isMined": false,
-    "category": "Cryptocurrency",
-    "listedOn": [
-        "bittrex",
-        "coinbase",
-        "poloniex"
-    ],
-    "erc20Address": ""
   },  
   {
     "name": "Uniswap",
@@ -372,19 +284,31 @@
     "isMined": false,
     "category": "Defi",
     "listedOn": [
+        "gemini",
         "coinbase",
-        "gemini"
+        "kraken"
     ],
     "erc20Address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
  }, 
+ {
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "isMined": false,
+    "category": "Cryptocurrency",
+    "listedOn": [
+        "coinlist"
+    ],
+    "erc20Address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+ },
  {
     "name": "Yearn.finance",
     "symbol": "YFI",
     "isMined": false,
     "category": "Defi",
     "listedOn": [
+        "gemini",
         "coinbase",
-        "gemini"
+        "kraken"
     ],
     "erc20Address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e"
  },
@@ -394,9 +318,9 @@
     "isMined": true,
     "category": "Cryptocurrency",
     "listedOn": [
-        "Kraken",
-        "Gemini",
-        "Coinbase"
+        "gemini",
+        "coinbase",
+        "kraken"
     ],
     "erc20Address": ""
   }
