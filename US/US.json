@@ -203,7 +203,7 @@
     ],
     "erc20Address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78"
   },
-{
+  {
     "name": "Synthetix",
     "symbol": "SNX",
     "isMined": false,
@@ -214,8 +214,19 @@
         "kraken"
     ],
     "erc20Address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
- },
-  {
+   },
+   {
+    "name": "The Graph",
+    "symbol": "GRT",
+    "isMined": false,
+    "category": "Defi",
+    "listedOn": [
+        "kraken",
+        "coinbase"
+    ],
+    "erc20Address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
+   },
+   {
       "name": "Tron",
       "symbol": "TRX",
       "isMined": true,
@@ -224,8 +235,8 @@
           "kraken"
       ],
       "erc20Address": ""
-  },
-  {
+   },
+   {
       "name": "TrueUSD",
       "symbol": "TUSD",
       "isMined": false,
