@@ -54,24 +54,6 @@ Last updated November 11, 2020
 #### Gemini Tokens Available   
 - [List of tokens available on Gemini](https://support.gemini.com/hc/en-us/articles/115005868106-What-digital-assets-are-supported-on-the-Gemini-Exchange-)
 
-## Bittrex
-Last Updated July 17, 2019
-
-[Bittrex Listing Policy](https://bittrex.zendesk.com/hc/en-us/articles/360000475411-How-do-I-submit-a-token-to-Bittrex-for-listing-)
-
-> To be listed on the U.S. platform on Bittrex.com, our compliance review requires the applicant to provide a legal memorandum or opinion from its U.S.-qualified external legal counsel. The memo or opinion should present the factual and legal basis for its conclusion that (a) the Candidate Token is not a security under applicable securities laws, and (b) that trades of the Candidate Tokens would not be subject to regulation under any applicable laws applicable to trading of commodities.
-
-#### Bittrex Tokens Available
-
-- [List of Tokens available on Bittrex](https://bittrex.com/api/v1.1/public/getcurrencies)
-- Note, take care to ensure that:  `IsRestricted : false`
-- [Bittrex also operates an international platform](https://bittrex.zendesk.com/hc/en-us/articles/360001354486-Bittrex-Announces-Formation-of-Bittrex-International), and restricts certain tokens from the US market.
-
-### Bittrex Token Deslisting
-- [Market Availability Changes for U.S. Customers 6/21/19](https://bittrex.zendesk.com/hc/en-us/articles/360028996652)
-- [Market Availability Changes for U.S. Customers 6/28/19](https://bittrex.zendesk.com/hc/en-us/articles/360029523891-Market-Availability-Changes-for-U-S-Customers-6-28-19)
-- 74 Assets were specifically listed as no longer being available to US customers for regulatory concerns
-- [Pending Market Removals 6/7/2019](https://bittrex.zendesk.com/hc/en-us/articles/360028754251-Pending-Market-Removals-6-7-2019)
 
 # The List
 
@@ -79,39 +61,32 @@ Below is a list of tokens which are readily available to the US market from the 
 
 | **Name**                   | **Symbol**| **Mined**| **Category**| **Companies Approved**            | **Contract Address (if ERC20 Token)**      |
 |----------------------------|--------|-------|-----------------|-------------------------------------|--------------------------------------------|
-| 0x Protocol                | ZRX    | FALSE | Swap            | ["Bittrex", "Coinbase"] | 0xE41d2489571d322189246DaFA5ebDe1F4699F498 |
-| Basic Attention Token      | BAT    | FALSE | App             | ["Bittrex", "Coinbase"] | 0x0D8775F648430679A709E98d2b0Cb6250d2887EF |
-| Bitcoin Cash               | BCH    | TRUE  | Cryptocurrency  | ["Bittrex", "Coinbase"] |                                            |
-| Bitcoin                    | BTC    | TRUE  | Cryptocurrency  | ["Bittrex", "Coinbase"] |                                            |
+| 0x Protocol                | ZRX    | FALSE | Swap            | ["Coinbase", "Kraken", "Gemini"]    | 0xE41d2489571d322189246DaFA5ebDe1F4699F498 |
+| Aave Protocol              | AAVE   | FALSE | Defi Platform   | ["Coinbase", "Kraken", "Gemini"]    | 0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9 |
+| Augur v2                   | REPV2  | FALSE | Prediction Market| ["Coinbase", "Kraken"]             | 0x221657776846890989a759BA2973e427DfF5C9bB |
+| Basic Attention Token      | BAT    | FALSE | App             | ["Coinbase", "Kraken", "Gemini"]    | 0x0D8775F648430679A709E98d2b0Cb6250d2887EF |
+| Bitcoin Cash               | BCH    | TRUE  | Cryptocurrency  | ["Coinbase", "Kraken", "Gemini"]    |                                            |
+| Bitcoin                    | BTC    | TRUE  | Cryptocurrency  | ["Coinbase", "Kraken", "Gemini"]    |                                            |
 | Binance USD                | BUSD   | FALSE | Stable Coin     | ["Paxos"]                           | 0x4Fabb145d64652a948d72533023f6E7A623C7C53 |
-| Dogecoin                   | DOGE   | TRUE  | Cryptocurrency  | ["Bittrex", "Kraken"]               |                                            |
-| Compound                   | COMP   | FALSE | Defi Platform   | ["Coinbase"]                        | 0xc00e94Cb662C3520282E6f5717214004A7f26888 |
-| ChainLink                  | LINK   | FALSE | Data Publishing | ["Coinbase"]                        | 0x514910771af9ca656af840dff83e8264ecf986ca |
-| DAI Stablecoin             | DAI   | FALSE | Stable Coin      | ["Coinbase"]                        | 0x6B175474E89094C44Da98b954EedeAC495271d0F |
-| Endor                      | EDR    | FALSE | Artificial Intelligence| ["Bittrex"]                  | 0xc528c28fec0a90c083328bc45f587ee215760a0f |
-| Enjin Coin                 | ENJ    | FALSE | Online Gaming   | ["Bittrex"]                         | 0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c |
-| Ethereum                   | ETH    | TRUE  | Smart Contracts | ["Bittrex", "Coinbase"] |                                            |
-| FunFair                    | FUN    | FALSE | Online Gaming   | ["Bittrex"]                         | 0x419d0d8bdd9af5e606ae2232ed285aff190e711b |
-| Golem                      | GNT    | FALSE | Computing       | ["Bittrex", "Coinbase"] | 0xa74476443119A942dE498590Fe1f2454d7D4aC0d |
-| Maker                      | MKR    | FALSE | Defi Platform   | ["Coinbase"]                        | 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2 |
-| Loom Network               | LOOM   | FALSE | Smart Contracts | ["Bittrex", "Coinbase"] | 0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0 |
-| Litecoin                   | LTC    | TRUE | Cryptocurrency   | ["Bittrex", "Coinbase"] |                                            |
-| Decentraland               | MANA   | FALSE | App             | ["Bittrex", "Coinbase"] | 0x0f5d2fb29fb7d3cfee444a200298f468908cc942 |
-| METAL                      | MTL    | FALSE | App             | ["Bittrex"]                         | 0xF433089366899D83a9f26A773D59ec7eCF30355e |
+| Compound                   | COMP   | FALSE | Defi Platform   | ["Coinbase", "Kraken", "Gemini"]    | 0xc00e94Cb662C3520282E6f5717214004A7f26888 |
+| ChainLink                  | LINK   | FALSE | Data Publishing | ["Coinbase", "Kraken", "Gemini"]    | 0x514910771af9ca656af840dff83e8264ecf986ca |
+| DAI Stablecoin             | DAI    | FALSE | Stable Coin     | ["Coinbase", "Kraken", "Gemini"]    | 0x6B175474E89094C44Da98b954EedeAC495271d0F |
+| Dogecoin                   | DOGE   | TRUE  | Cryptocurrency  | ["Kraken"]                          |                                            |
+| Ethereum                   | ETH    | TRUE  | Smart Contracts | ["Coinbase", "Kraken", "Gemini"]    |                                            |
+| Golem                      | GNT    | FALSE | Computing       | ["Coinbase"]                        | 0xa74476443119A942dE498590Fe1f2454d7D4aC0d |
+| Maker                      | MKR    | FALSE | Defi Platform   | ["Coinbase", "Gemini"]              | 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2 |
+| Litecoin                   | LTC    | TRUE  | Cryptocurrency  | ["Coinbase", "Kraken", "Gemini"]    |                                            |
+| Decentraland               | MANA   | FALSE | App             | ["Coinbase", "Kraken", "Gemini"]    | 0x0f5d2fb29fb7d3cfee444a200298f468908cc942 |
 | Paxos Standard             | PAX    | FALSE | Stable Coin     | ["Paxos"]                           | 0x8e870d67f660d95d5be530380d0ec0bd388289e1 |
 | Paxos Gold                 | PAXG   | FALSE | Stable Coin     | ["Paxos"]                           | 0x45804880De22913dAFE09f4980848ECE6EcbAf78 |
-| Polymath                   | POLY   | FALSE | Security Tokens | ["Bittrex"]             | 0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC |
-| Augur v2                   | REPV2  | FALSE | Prediction Market| ["Coinbase"]                       | 0x221657776846890989a759BA2973e427DfF5C9bB |
-| SingularDTV                | SNGLS  | FALSE | Content         | ["Bittrex"]                         | 0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009 |
-| Tron                       | TRX    | TRUE  | Smart Contracts | ["Bittrex"]                         |                                            |
-| TrueUSD                    | TUSD   | FALSE | Stable Coin     | ["Bittrex"]                         | 0x0000000000085d4780B73119b644AE5ecd22b376 |
-| USD Coin                   | USDC   | FALSE | Stable Coin     | ["Coinbase"]            | 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 |
-| Tether USD                 | USDT   | FALSE | Stable Coin     | ["Kraken"]             | 0xdAC17F958D2ee523a2206206994597C13D831ec7 |
-| UnikoinGold                | UKG    | FALSE | Online Gaming   | ["Bittrex"]                         | 0xb2e59493763d0d0be2634b2d1afe066914b0fcc2 |
-| Worldwide Asset Exchange   | WAX    | FALSE | Swap            | ["Bittrex"]                         | 0x39Bb259F66E1C59d5ABEF88375979b4D20D98022 |
-| Stellar                    | XLM    | TRUE | Cryptocurrency   | ["Kraken", "Bittrex", "Coinbase"] |                                            |
-| Monero                     | XMR    | TRUE | Cryptocurrency   | ["Kraken", "Bittrex"]             |                                            |
-| Ripple                     | XRP    | TRUE | Cryptocurrency   | ["Bittrex", "Coinbase", "Kraken"] |                                            |
-| Uniswap                    | UNI    | FALSE | DeFi            | ["Gemini", "Coinbase"]             | 0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984 |
-| Yearn.finance              | YFI    | FALSE | DeFi             | ["Coinbase", "Gemini"]            | 0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e |
-| Zcash                      | ZEC    | TRUE | Cryptocurrency   | ["Coinbase", "Gemini", "Kraken"]   |                                            |
+| Synthetix                  | SNX    | FALSE | Defi Platform   | ["Coinbase", "Kraken", "Gemini"]    | 0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f |
+| Tron                       | TRX    | TRUE  | Smart Contracts | ["Kraken"]                          |                                            |
+| TrueUSD                    | TUSD   | FALSE | Stable Coin     | ["TrustToken"]                      | 0x0000000000085d4780B73119b644AE5ecd22b376 |
+| USD Coin                   | USDC   | FALSE | Stable Coin     | ["Coinbase", "Kraken"]              | 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 |
+| Tether USD                 | USDT   | FALSE | Stable Coin     | ["Kraken"]                          | 0xdAC17F958D2ee523a2206206994597C13D831ec7 |
+| Stellar                    | XLM    | TRUE | Cryptocurrency   | ["Kraken", "Bittrex", "Coinbase"]   |                                            |
+| Monero                     | XMR    | TRUE | Cryptocurrency   | ["Kraken"]                          |                                            |
+| Uniswap                    | UNI    | FALSE | DeFi            | ["Gemini", "Coinbase", "Kraken"]    | 0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984 |
+| Wrapped Bitcoin            | WBTC   | FALSE | Stable Coin     | ["CoinList"]                        | 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599 |
+| Yearn.finance              | YFI    | FALSE | DeFi            | ["Coinbase", "Gemini", "Kraken"]    | 0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e |
+| Zcash                      | ZEC    | TRUE | Cryptocurrency   | ["Coinbase", "Gemini", "Kraken"]    |                                            |
